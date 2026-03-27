@@ -1,4 +1,4 @@
-## 🐍 Python Implementation
+##  Python Implementation
 
 The complete RFM analysis and clustering were implemented using Python.
 
