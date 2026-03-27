@@ -1,56 +1,50 @@
 # 🚀 RFM Customer Segmentation using KMeans
 
 ## 📌 Problem Statement
-Businesses struggle to identify high-value and at-risk customers from large transaction datasets.
+E-commerce businesses struggle to identify high-value and at-risk customers.
 
 ## 🎯 Objective
-To segment customers based on purchasing behavior using RFM analysis and KMeans clustering.
+Segment customers based on behavior using RFM analysis and KMeans clustering.
 
 ---
 
-## 🛠 Tools & Technologies
-- SQL (Data Extraction)
+## 🛠 Tools Used
+- SQL
 - Python (Pandas, NumPy, Scikit-learn)
-- Power BI (Visualization)
+- Power BI
 
 ---
 
-## 📊 Approach
+## 📊 Project Steps
+1. Extracted data using SQL  
+2. Created RFM (Recency, Frequency, Monetary)  
+3. Cleaned and transformed data  
+4. Applied scaling  
+5. Performed KMeans clustering  
+6. Created customer segments  
 
-1. Extracted transaction data using SQL  
-2. Calculated RFM (Recency, Frequency, Monetary) metrics  
-3. Performed data cleaning and log transformation  
-4. Applied feature scaling  
-5. Used KMeans clustering for segmentation  
-6. Identified customer groups  
+---
+
+## 🤖 Machine Learning
+- Used KMeans clustering  
+- Applied Elbow Method for cluster selection  
 
 ---
 
 ## 📈 Customer Segments
-
-- 🟢 Loyal Customers → High frequency users  
-- 🔴 At Risk Customers → Inactive users  
-- 🔵 High Value Customers → High spenders  
-- ⚪ Regular Customers → Average behavior  
+- Loyal Customers  
+- At Risk Customers  
+- High Value Customers  
+- Regular Customers  
 
 ---
 
 ## 💡 Business Impact
-
-- Helps target marketing campaigns  
-- Improves customer retention  
-- Increases revenue through segmentation  
-- Identifies churn risk customers  
+- Better marketing targeting  
+- Improved customer retention  
+- Increased revenue opportunities  
 
 ---
 
-## 📷 Dashboard Preview
-(Add your Power BI screenshot here)
-
----
-
-## 🚀 Future Improvements
-
-- Add Silhouette Score optimization  
-- Use advanced clustering (DBSCAN)  
-- Build ML model for prediction  
+## 📷 Dashboard
+(Add screenshot here)
