@@ -9,4 +9,4 @@ The complete data processing, RFM feature engineering, and clustering were imple
 - Customer segmentation using K-Means clustering  
 
 👉 View full implementation here:  
-[Python Notebook](./your_notebook_name.ipynb)
+[Python Notebook](./RFM_KMeans_Project1.ipynb)
