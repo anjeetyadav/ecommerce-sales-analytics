@@ -89,7 +89,7 @@ An interactive dashboard was created using Microsoft Power BI to visualize custo
 
 ### 🔹 Dashboard Preview
 
-![Overview](Overview.png)
+![Overview](./dashboard/Overview.png)
 
 ![RFM_Analysis](RFM_Analysis.png)
 
